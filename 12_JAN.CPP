@@ -89,6 +89,11 @@ int main() {
             int a;
             cin >> a;
             q.push(a);
+
+
+
+
+            
         }
         Solution ob;
         queue<int> ans = ob.modifyQueue(q, k);
