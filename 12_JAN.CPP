@@ -42,7 +42,6 @@ using namespace std;
 class Solution
 {
 public:
-    // Function to reverse first k elements of a queue.
     queue<int> modifyQueue(queue<int> q, int k)
     {
 
